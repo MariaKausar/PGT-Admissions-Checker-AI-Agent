@@ -14,7 +14,7 @@ Built as a Grow AI Team demo.
 | MSc Data Science | i402T | 2:2 in any subject, with maths aptitude | IELTS 6.0, no band below 5.5 |
 | MSc Software Engineering | i404T | 2:2 in CS / related STEM with programming | IELTS 6.0, no band below 5.5 |
 
-Codes are for this demo. Confirm real codes with admissions before live use.
+
 
 ## What it checks
 
