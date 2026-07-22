@@ -32,7 +32,7 @@ Document reading uses Claude. The final decision comes from fixed rules in code,
 You need:
 
 - Python 3.12
-- Node.js 18+
+- React.js
 - An Anthropic API key
 
 ### Backend
