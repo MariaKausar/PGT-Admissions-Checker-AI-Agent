@@ -1,8 +1,4 @@
 """LangChain tool-calling agent for interactive admissions Q&A.
-
-Used by the /chat endpoint so admissions staff can ask free-form questions and
-have the agent reason with the rule tools. The batch /assess endpoint uses the
-deterministic engine for auditable decisions; this agent explains and answers.
 """
 from __future__ import annotations
 
