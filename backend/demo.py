@@ -1,19 +1,4 @@
-"""Guided 20-minute demonstration script (pure Python, run in the terminal).
 
-Maps directly to the interview brief's required flow:
-    1. Summary of options explored
-    2. Sample code (the design)
-    3. Key capabilities illustrated with samples
-    4. Next steps
-
-Run:
-    .venv\\Scripts\\python.exe demo.py            # run the whole talk
-    .venv\\Scripts\\python.exe demo.py --pause     # pause between sections (press Enter)
-
-No API key or LLM is required: this uses the deterministic rules engine so the
-demo is fast, offline and repeatable. The LLM document-reading step is described
-(and can be shown live in the browser via /api/assess).
-"""
 from __future__ import annotations
 
 import sys
