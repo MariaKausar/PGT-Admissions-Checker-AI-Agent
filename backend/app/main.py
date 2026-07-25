@@ -1,4 +1,4 @@
-"""FastAPI application: document upload + assessment + agent chat."""
+"""FastAPI application: document upload + assessment."""
 from __future__ import annotations
 
 import uuid
