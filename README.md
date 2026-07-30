@@ -17,7 +17,6 @@ Built as a Grow AI Team demo.
 | MSc Software Engineering | i404T | 2:2 in CS / related STEM with programming | IELTS 6.0, no band below 5.5 |
 
 
-
 ## What it checks
 
 - Required documents (course choice, degree certificate, transcript; IELTS if needed)
