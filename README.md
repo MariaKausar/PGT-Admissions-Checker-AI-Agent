@@ -5,7 +5,6 @@ Staff tool for checking Taught Masters applications against University of Salfor
 Upload the applicant’s PDFs (or JPGs). The system reads the documents, checks the rules, and suggests **ACCEPT**, **REJECT**, **REVIEW**, or **INCOMPLETE**.
 
 
-
 Built as a Grow AI Team demo.
 
 ## Courses covered
