@@ -24,6 +24,7 @@ Built as a Grow AI Team demo.
 - Subject fit for that course
 - English language (or exemption)
 
+
 Document reading uses Claude. The final decision comes from fixed rules in code, so the same case should get the same outcome.
 
 ## How to run
