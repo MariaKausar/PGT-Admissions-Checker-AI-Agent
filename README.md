@@ -8,6 +8,8 @@ Built as a Grow AI Team demo.
 
 ## Courses covered 
 
+
+
 | Course | Code | Degree background | English |
 | --- | --- | --- | --- |
 | MSc Artificial Intelligence | i403T | 2:2 in CS / related STEM with programming | IELTS 6.0, no band below 5.5 |
