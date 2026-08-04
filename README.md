@@ -1,5 +1,6 @@
 # PGT Admissions Checker
 
+
 Staff tool for checking Taught Masters applications against University of Salford entrance requirements.
 
 Upload the applicant’s PDFs (or JPGs). The system reads the documents, checks the rules, and suggests **ACCEPT**, **REJECT**, **REVIEW**, or **INCOMPLETE**.
