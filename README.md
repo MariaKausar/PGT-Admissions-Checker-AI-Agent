@@ -8,7 +8,6 @@ Upload the applicant’s PDFs (or JPGs). The system reads the documents, checks 
 
 Built as a Grow AI Team demo.
 
-
 ## Courses covered 
 
 
