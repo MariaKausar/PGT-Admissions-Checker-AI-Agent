@@ -8,6 +8,7 @@ Upload the applicant’s PDFs (or JPGs). The system reads the documents, checks 
 Built as a Grow AI Team demo.
 ## Courses covered 
 
+
 | Course | Code | Degree background | English |
 | --- | --- | --- | --- |
 | MSc Artificial Intelligence | i403T | 2:2 in CS / related STEM with programming | IELTS 6.0, no band below 5.5 |
